@@ -25,6 +25,7 @@ body {
 
 .main-container {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     height: 100%;
@@ -39,6 +40,7 @@ body {
     border-radius: 20px;
     border: 1px solid var(--gray-950);
     box-shadow: 8px 8px 0 #000;
+    margin-bottom: 24px;
     &:hover {
         box-shadow: 16px 16px 0 #000;
         transition: box-shadow 0.3s ease-in-out;
@@ -128,6 +130,13 @@ body {
         color: var(--gray-950);
         font-weight: 900;
     }
+}
+
+.attribution {
+    text-align: center;
+    font-size: 12px;
+    color: rgb(104, 119, 141);
+    margin-top: 16px;
 }
 
 @media screen and (min-width: 1440px) {

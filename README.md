@@ -9,6 +9,9 @@ It is a simple card that shows the title, description, and image of a blog post.
 
 ## Links
 
+- [Live Project](https://misterwaner.github.io/frontend-mentor-blog-preview-card/)
+- [Solution URL](https://github.com/MisterWaner/frontend-mentor-blog-preview-card)
+
 ## Languages & Tools:
 
 - HTML
